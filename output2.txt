@@ -1,0 +1,3 @@
+> #Lets see what properties net.myfunc has
+> ls(net.results)
+[1] "net.result" "neurons"   
